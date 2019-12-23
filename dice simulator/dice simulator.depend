@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1519735715 source:c:\users\tudor\desktop\exersare\dice simulator\main.cpp
+	<iostream>
+	<stdlib.h>
+	<bits/stdc++.h>
+	<time.h>
+

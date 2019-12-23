@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507044521 source:c:\users\tudor\desktop\exersare\fstream\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

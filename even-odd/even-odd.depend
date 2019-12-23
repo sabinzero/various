@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1486658166 source:c:\users\tudor\desktop\informatica\work\even-odd\main.cpp
+	<iostream>
+	<math.h>
+

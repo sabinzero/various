@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509817026 source:c:\users\tudor\desktop\exersare\binari to decimal\main.cpp
+	<iostream>
+	<string.h>
+	<math.h>
+

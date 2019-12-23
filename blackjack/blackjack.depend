@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1521388066 source:c:\users\tudor\desktop\exersare\blackjack\main.cpp
+	<iostream>
+	<ctime>
+	<unistd.h>
+	<string.h>
+

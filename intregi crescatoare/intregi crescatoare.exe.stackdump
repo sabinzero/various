@@ -1,0 +1,7 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=017674AC
+eax=00000001 ebx=017674AC ecx=FFFAC000 edx=611D75D9 esi=026ECE64 edi=026ECDC4
+ebp=00000000 esp=026ECD6C program=C:\Users\tudor\Desktop\Exersare\intregi crescatoare\bin\Debug\intregi crescatoare.exe, pid 9872, thread unknown (0x24D8)
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+End of stack trace

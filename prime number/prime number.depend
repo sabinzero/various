@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1491041499 source:c:\users\tudor\desktop\informatica\work\prime number\main.cpp
+	<iostream>
+	<math.h>
+

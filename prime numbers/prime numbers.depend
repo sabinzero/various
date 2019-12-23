@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512900800 source:c:\users\tudor\desktop\exersare\prime numbers\main.cpp
+	<iostream>
+	<math.h>
+
